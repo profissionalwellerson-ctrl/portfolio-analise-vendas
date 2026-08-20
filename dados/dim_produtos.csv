@@ -1,0 +1,76 @@
+﻿ProdutoID;Produto;Categoria;Subcategoria;Marca;CustoUnitario;PrecoTabela
+1;Fone Basico;Eletronicos;Fone;Koru;304;438,15
+2;Fone Plus;Eletronicos;Fone;Nexa;41;56,63
+3;Fone Premium;Eletronicos;Fone;Aurora;144;270,81
+4;Caixa de Som Basico;Eletronicos;Caixa de Som;Lume;312;486,34
+5;Caixa de Som Plus;Eletronicos;Caixa de Som;Lume;239;377,97
+6;Caixa de Som Premium;Eletronicos;Caixa de Som;Aurora;167;367,38
+7;Smartwatch Basico;Eletronicos;Smartwatch;Vitta;106;220,80
+8;Smartwatch Plus;Eletronicos;Smartwatch;Vitta;167;252,71
+9;Smartwatch Premium;Eletronicos;Smartwatch;Aurora;77;111,45
+10;Carregador Basico;Eletronicos;Carregador;Lume;208;465,89
+11;Carregador Plus;Eletronicos;Carregador;Koru;160;351,60
+12;Carregador Premium;Eletronicos;Carregador;Koru;299;442,84
+13;Tablet Basico;Eletronicos;Tablet;Lume;65;125,43
+14;Tablet Plus;Eletronicos;Tablet;Aurora;210;410,81
+15;Tablet Premium;Eletronicos;Tablet;Vitta;48;98,13
+16;Liquidificador Basico;Casa;Liquidificador;Aurora;65;146,13
+17;Liquidificador Plus;Casa;Liquidificador;Vitta;219;359,57
+18;Liquidificador Premium;Casa;Liquidificador;Nexa;108;187,78
+19;Panela Basico;Casa;Panela;Aurora;161;335,99
+20;Panela Plus;Casa;Panela;Nexa;112;214,01
+21;Panela Premium;Casa;Panela;Vitta;108;198,22
+22;Jogo de Cama Basico;Casa;Jogo de Cama;Vitta;310;489,98
+23;Jogo de Cama Plus;Casa;Jogo de Cama;Aurora;53;84,30
+24;Jogo de Cama Premium;Casa;Jogo de Cama;Aurora;186;329,45
+25;Luminaria Basico;Casa;Luminaria;Lume;133;307,07
+26;Luminaria Plus;Casa;Luminaria;Koru;186;292,63
+27;Luminaria Premium;Casa;Luminaria;Koru;227;517,31
+28;Cafeteira Basico;Casa;Cafeteira;Nexa;98;159,56
+29;Cafeteira Plus;Casa;Cafeteira;Lume;312;597,77
+30;Cafeteira Premium;Casa;Cafeteira;Koru;244;559,42
+31;Camiseta Basico;Moda;Camiseta;Nexa;210;331,86
+32;Camiseta Plus;Moda;Camiseta;Aurora;285;532,43
+33;Camiseta Premium;Moda;Camiseta;Nexa;81;122,35
+34;Calca Basico;Moda;Calca;Koru;241;476,27
+35;Calca Plus;Moda;Calca;Koru;220;434,65
+36;Calca Premium;Moda;Calca;Lume;295;476,13
+37;Tenis Basico;Moda;Tenis;Aurora;30;61,93
+38;Tenis Plus;Moda;Tenis;Vitta;299;639,39
+39;Tenis Premium;Moda;Tenis;Nexa;82;135,97
+40;Mochila Basico;Moda;Mochila;Vitta;257;347,83
+41;Mochila Plus;Moda;Mochila;Lume;281;604,17
+42;Mochila Premium;Moda;Mochila;Vitta;79;178,86
+43;Jaqueta Basico;Moda;Jaqueta;Nexa;284;564,99
+44;Jaqueta Plus;Moda;Jaqueta;Lume;216;464,54
+45;Jaqueta Premium;Moda;Jaqueta;Lume;296;685,07
+46;Perfume Basico;Beleza;Perfume;Aurora;190;353,98
+47;Perfume Plus;Beleza;Perfume;Vitta;210;477,26
+48;Perfume Premium;Beleza;Perfume;Lume;147;207,39
+49;Creme Basico;Beleza;Creme;Koru;65;93,60
+50;Creme Plus;Beleza;Creme;Lume;60;142,61
+51;Creme Premium;Beleza;Creme;Koru;89;132,15
+52;Shampoo Basico;Beleza;Shampoo;Lume;306;466,16
+53;Shampoo Plus;Beleza;Shampoo;Lume;241;569,38
+54;Shampoo Premium;Beleza;Shampoo;Koru;127;266,52
+55;Kit Skincare Basico;Beleza;Kit Skincare;Lume;216;390,96
+56;Kit Skincare Plus;Beleza;Kit Skincare;Nexa;256;378,13
+57;Kit Skincare Premium;Beleza;Kit Skincare;Lume;57;97,18
+58;Secador Basico;Beleza;Secador;Nexa;308;490,22
+59;Secador Plus;Beleza;Secador;Aurora;28;39,89
+60;Secador Premium;Beleza;Secador;Aurora;142;201,75
+61;Bola Basico;Esporte;Bola;Nexa;194;276,33
+62;Bola Plus;Esporte;Bola;Nexa;167;342,76
+63;Bola Premium;Esporte;Bola;Lume;301;448,17
+64;Colchonete Basico;Esporte;Colchonete;Koru;320;590,82
+65;Colchonete Plus;Esporte;Colchonete;Aurora;233;361,13
+66;Colchonete Premium;Esporte;Colchonete;Koru;245;421,89
+67;Garrafa Basico;Esporte;Garrafa;Aurora;264;595,86
+68;Garrafa Plus;Esporte;Garrafa;Vitta;75;106,02
+69;Garrafa Premium;Esporte;Garrafa;Nexa;80;128,89
+70;Luva Basico;Esporte;Luva;Koru;299;544,49
+71;Luva Plus;Esporte;Luva;Nexa;118;193,81
+72;Luva Premium;Esporte;Luva;Lume;63;114,36
+73;Bicicleta Basico;Esporte;Bicicleta;Lume;75;105,23
+74;Bicicleta Plus;Esporte;Bicicleta;Nexa;32;75,76
+75;Bicicleta Premium;Esporte;Bicicleta;Koru;110;195,44

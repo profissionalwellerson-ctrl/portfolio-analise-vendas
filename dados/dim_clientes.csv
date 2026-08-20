@@ -1,0 +1,801 @@
+﻿ClienteID;Cliente;SegmentoCliente;Estado;Genero;FaixaEtaria;DataCadastro
+1;Cliente 0001;VIP;SP;F;45-54;2023-08-07
+2;Cliente 0002;Risco;RS;M;35-44;2023-01-03
+3;Cliente 0003;Recorrente;DF;Nao informado;45-54;2024-03-09
+4;Cliente 0004;Novo;PR;F;55+;2023-06-08
+5;Cliente 0005;Recorrente;BA;F;18-24;2025-01-23
+6;Cliente 0006;Recorrente;DF;F;18-24;2024-08-21
+7;Cliente 0007;Novo;MG;F;55+;2024-06-04
+8;Cliente 0008;Recorrente;PR;M;18-24;2023-03-11
+9;Cliente 0009;Novo;GO;F;55+;2024-08-06
+10;Cliente 0010;Recorrente;GO;Nao informado;55+;2023-03-25
+11;Cliente 0011;Risco;PR;Nao informado;35-44;2023-11-20
+12;Cliente 0012;Novo;MG;Nao informado;35-44;2023-09-02
+13;Cliente 0013;Novo;RJ;F;45-54;2024-04-13
+14;Cliente 0014;Risco;RJ;F;55+;2024-09-28
+15;Cliente 0015;Recorrente;MG;M;18-24;2023-08-07
+16;Cliente 0016;Novo;RS;F;45-54;2025-06-19
+17;Cliente 0017;Recorrente;RS;Nao informado;55+;2025-05-03
+18;Cliente 0018;Recorrente;DF;M;18-24;2023-01-09
+19;Cliente 0019;Novo;RJ;F;55+;2025-06-18
+20;Cliente 0020;Novo;GO;F;35-44;2023-06-09
+21;Cliente 0021;Recorrente;RS;Nao informado;45-54;2023-07-28
+22;Cliente 0022;Risco;SP;F;45-54;2023-09-15
+23;Cliente 0023;Novo;SP;M;25-34;2025-04-29
+24;Cliente 0024;Risco;MG;Nao informado;45-54;2024-10-14
+25;Cliente 0025;Recorrente;DF;F;18-24;2024-07-18
+26;Cliente 0026;Risco;MG;Nao informado;18-24;2023-03-19
+27;Cliente 0027;Recorrente;DF;F;45-54;2025-05-04
+28;Cliente 0028;Novo;BA;F;35-44;2023-05-11
+29;Cliente 0029;Recorrente;AM;F;35-44;2023-08-04
+30;Cliente 0030;Recorrente;PE;Nao informado;25-34;2025-03-09
+31;Cliente 0031;VIP;MG;M;18-24;2023-08-31
+32;Cliente 0032;Recorrente;BA;M;25-34;2023-07-03
+33;Cliente 0033;Novo;RJ;M;18-24;2023-10-01
+34;Cliente 0034;Recorrente;PR;M;35-44;2025-05-29
+35;Cliente 0035;VIP;PR;F;18-24;2023-11-09
+36;Cliente 0036;Novo;BA;M;18-24;2024-11-06
+37;Cliente 0037;Novo;AM;Nao informado;45-54;2025-03-02
+38;Cliente 0038;Risco;DF;M;18-24;2024-11-26
+39;Cliente 0039;VIP;RS;F;55+;2023-04-29
+40;Cliente 0040;Novo;GO;M;35-44;2023-09-29
+41;Cliente 0041;VIP;PE;Nao informado;55+;2025-01-16
+42;Cliente 0042;Recorrente;GO;F;35-44;2023-04-29
+43;Cliente 0043;Recorrente;SP;Nao informado;55+;2023-02-15
+44;Cliente 0044;Recorrente;AM;F;35-44;2024-12-04
+45;Cliente 0045;Novo;AM;M;55+;2024-03-17
+46;Cliente 0046;Recorrente;RJ;Nao informado;35-44;2023-11-18
+47;Cliente 0047;Novo;PE;M;45-54;2024-06-03
+48;Cliente 0048;Novo;MG;F;45-54;2024-12-14
+49;Cliente 0049;Risco;AM;Nao informado;25-34;2024-11-11
+50;Cliente 0050;Recorrente;PE;Nao informado;18-24;2024-09-22
+51;Cliente 0051;Novo;PE;Nao informado;55+;2023-11-08
+52;Cliente 0052;Novo;CE;M;25-34;2024-11-01
+53;Cliente 0053;Recorrente;MG;Nao informado;18-24;2024-06-07
+54;Cliente 0054;Recorrente;AM;Nao informado;35-44;2023-10-18
+55;Cliente 0055;VIP;PR;Nao informado;35-44;2023-04-06
+56;Cliente 0056;VIP;MG;F;18-24;2023-08-19
+57;Cliente 0057;Risco;GO;F;45-54;2023-09-08
+58;Cliente 0058;VIP;GO;F;45-54;2024-02-29
+59;Cliente 0059;Recorrente;MG;Nao informado;18-24;2024-05-21
+60;Cliente 0060;VIP;RJ;M;25-34;2025-02-07
+61;Cliente 0061;VIP;DF;M;18-24;2023-06-30
+62;Cliente 0062;Novo;RJ;M;25-34;2024-07-24
+63;Cliente 0063;Recorrente;DF;Nao informado;55+;2025-03-31
+64;Cliente 0064;Risco;CE;Nao informado;55+;2023-11-21
+65;Cliente 0065;VIP;DF;M;25-34;2024-03-12
+66;Cliente 0066;VIP;CE;M;25-34;2025-01-31
+67;Cliente 0067;Recorrente;DF;M;25-34;2025-05-10
+68;Cliente 0068;Recorrente;RS;F;35-44;2023-10-09
+69;Cliente 0069;Novo;DF;F;25-34;2023-12-10
+70;Cliente 0070;Novo;MG;Nao informado;25-34;2023-06-04
+71;Cliente 0071;Recorrente;BA;Nao informado;45-54;2023-03-07
+72;Cliente 0072;Novo;PE;M;55+;2024-03-01
+73;Cliente 0073;Novo;GO;M;45-54;2024-12-13
+74;Cliente 0074;Risco;RS;M;45-54;2023-01-07
+75;Cliente 0075;Recorrente;DF;Nao informado;25-34;2024-07-05
+76;Cliente 0076;Novo;PE;M;18-24;2024-05-14
+77;Cliente 0077;Novo;AM;M;25-34;2024-02-03
+78;Cliente 0078;Recorrente;MG;Nao informado;55+;2025-05-10
+79;Cliente 0079;Risco;GO;Nao informado;18-24;2023-01-28
+80;Cliente 0080;Recorrente;MG;M;25-34;2023-03-27
+81;Cliente 0081;Novo;BA;F;45-54;2023-02-21
+82;Cliente 0082;Novo;PE;M;45-54;2023-12-01
+83;Cliente 0083;VIP;CE;F;55+;2023-09-16
+84;Cliente 0084;Risco;BA;F;18-24;2023-02-23
+85;Cliente 0085;Risco;SP;F;25-34;2025-03-10
+86;Cliente 0086;VIP;GO;F;25-34;2023-07-24
+87;Cliente 0087;Recorrente;RJ;Nao informado;25-34;2023-05-10
+88;Cliente 0088;Recorrente;BA;F;55+;2024-04-21
+89;Cliente 0089;Risco;RJ;F;35-44;2024-09-13
+90;Cliente 0090;Recorrente;RS;Nao informado;45-54;2023-04-21
+91;Cliente 0091;Risco;PR;F;55+;2024-02-11
+92;Cliente 0092;VIP;PR;F;35-44;2024-12-08
+93;Cliente 0093;Recorrente;RJ;Nao informado;18-24;2025-05-20
+94;Cliente 0094;Recorrente;AM;M;18-24;2023-12-22
+95;Cliente 0095;Recorrente;SP;M;45-54;2024-06-02
+96;Cliente 0096;Recorrente;BA;Nao informado;45-54;2023-04-19
+97;Cliente 0097;Novo;MG;Nao informado;55+;2024-12-25
+98;Cliente 0098;Novo;DF;M;45-54;2024-10-28
+99;Cliente 0099;VIP;GO;M;35-44;2024-03-22
+100;Cliente 0100;Novo;RJ;M;45-54;2025-05-22
+101;Cliente 0101;Recorrente;GO;Nao informado;45-54;2023-09-07
+102;Cliente 0102;Novo;BA;F;45-54;2023-12-11
+103;Cliente 0103;Recorrente;RS;M;35-44;2023-08-06
+104;Cliente 0104;Recorrente;RS;Nao informado;18-24;2024-09-02
+105;Cliente 0105;Risco;RJ;F;45-54;2024-06-13
+106;Cliente 0106;Recorrente;PR;Nao informado;45-54;2024-05-15
+107;Cliente 0107;Recorrente;CE;F;18-24;2024-10-23
+108;Cliente 0108;Novo;PR;M;55+;2023-10-29
+109;Cliente 0109;Recorrente;DF;M;45-54;2024-01-13
+110;Cliente 0110;Recorrente;BA;Nao informado;45-54;2025-02-02
+111;Cliente 0111;Novo;PR;F;25-34;2023-10-05
+112;Cliente 0112;Novo;DF;Nao informado;25-34;2023-11-20
+113;Cliente 0113;Novo;CE;M;55+;2023-07-16
+114;Cliente 0114;Recorrente;RS;F;25-34;2025-02-17
+115;Cliente 0115;Novo;MG;M;18-24;2023-10-31
+116;Cliente 0116;Recorrente;RS;F;18-24;2024-12-26
+117;Cliente 0117;Novo;MG;Nao informado;45-54;2024-07-20
+118;Cliente 0118;VIP;GO;M;45-54;2023-04-16
+119;Cliente 0119;Recorrente;MG;F;35-44;2024-05-05
+120;Cliente 0120;Recorrente;RJ;M;45-54;2025-06-01
+121;Cliente 0121;Recorrente;AM;F;25-34;2023-03-17
+122;Cliente 0122;VIP;RS;F;25-34;2023-06-02
+123;Cliente 0123;Recorrente;PE;Nao informado;55+;2023-05-02
+124;Cliente 0124;Recorrente;DF;M;45-54;2025-03-20
+125;Cliente 0125;Novo;GO;M;35-44;2024-03-29
+126;Cliente 0126;Recorrente;GO;Nao informado;18-24;2024-08-05
+127;Cliente 0127;Novo;PR;M;18-24;2025-02-20
+128;Cliente 0128;Novo;DF;F;25-34;2023-06-10
+129;Cliente 0129;Recorrente;GO;M;35-44;2023-01-03
+130;Cliente 0130;Novo;RS;Nao informado;45-54;2023-02-03
+131;Cliente 0131;Recorrente;RS;Nao informado;55+;2023-03-14
+132;Cliente 0132;VIP;PR;M;18-24;2024-11-08
+133;Cliente 0133;Novo;MG;M;25-34;2024-07-11
+134;Cliente 0134;Novo;RS;Nao informado;55+;2023-03-15
+135;Cliente 0135;Recorrente;CE;Nao informado;35-44;2023-10-23
+136;Cliente 0136;Recorrente;RS;Nao informado;55+;2024-12-17
+137;Cliente 0137;Recorrente;GO;F;45-54;2024-05-20
+138;Cliente 0138;Novo;RS;F;18-24;2025-01-22
+139;Cliente 0139;Risco;GO;Nao informado;18-24;2023-08-23
+140;Cliente 0140;Recorrente;RS;Nao informado;18-24;2025-02-22
+141;Cliente 0141;Recorrente;CE;Nao informado;45-54;2025-02-20
+142;Cliente 0142;Novo;GO;M;45-54;2023-10-12
+143;Cliente 0143;Recorrente;PE;M;35-44;2023-04-04
+144;Cliente 0144;Novo;MG;M;45-54;2024-11-17
+145;Cliente 0145;Recorrente;AM;M;55+;2024-12-11
+146;Cliente 0146;Recorrente;BA;M;35-44;2023-02-07
+147;Cliente 0147;Risco;PE;Nao informado;18-24;2023-04-29
+148;Cliente 0148;VIP;CE;M;18-24;2024-11-04
+149;Cliente 0149;Recorrente;GO;M;45-54;2023-07-12
+150;Cliente 0150;Novo;RS;Nao informado;25-34;2025-02-17
+151;Cliente 0151;Recorrente;CE;F;18-24;2023-10-22
+152;Cliente 0152;Recorrente;PR;Nao informado;25-34;2024-10-07
+153;Cliente 0153;Recorrente;DF;M;18-24;2023-11-15
+154;Cliente 0154;Risco;RJ;M;18-24;2023-08-19
+155;Cliente 0155;VIP;CE;Nao informado;35-44;2024-10-25
+156;Cliente 0156;Recorrente;PE;M;45-54;2024-06-05
+157;Cliente 0157;Recorrente;MG;M;25-34;2023-09-07
+158;Cliente 0158;Recorrente;MG;F;35-44;2024-09-05
+159;Cliente 0159;VIP;PE;M;55+;2025-03-02
+160;Cliente 0160;VIP;RS;Nao informado;35-44;2023-10-01
+161;Cliente 0161;Recorrente;AM;M;25-34;2025-05-07
+162;Cliente 0162;Recorrente;BA;M;55+;2024-04-02
+163;Cliente 0163;Recorrente;CE;M;25-34;2025-02-20
+164;Cliente 0164;Novo;PE;F;45-54;2024-12-15
+165;Cliente 0165;Novo;CE;Nao informado;45-54;2023-02-14
+166;Cliente 0166;Risco;AM;F;45-54;2024-01-31
+167;Cliente 0167;Novo;GO;M;18-24;2023-02-07
+168;Cliente 0168;VIP;RJ;Nao informado;45-54;2025-06-14
+169;Cliente 0169;Recorrente;PE;Nao informado;25-34;2023-01-16
+170;Cliente 0170;Recorrente;RS;M;55+;2023-03-18
+171;Cliente 0171;Recorrente;RJ;M;55+;2024-12-10
+172;Cliente 0172;Risco;AM;Nao informado;45-54;2024-01-25
+173;Cliente 0173;Recorrente;GO;F;25-34;2025-06-12
+174;Cliente 0174;Recorrente;RS;F;18-24;2024-10-08
+175;Cliente 0175;Risco;AM;Nao informado;18-24;2024-03-20
+176;Cliente 0176;Novo;RS;F;18-24;2024-03-30
+177;Cliente 0177;VIP;RS;M;35-44;2023-11-29
+178;Cliente 0178;Novo;DF;M;55+;2024-03-17
+179;Cliente 0179;VIP;MG;F;18-24;2024-11-29
+180;Cliente 0180;VIP;GO;Nao informado;25-34;2024-09-16
+181;Cliente 0181;Risco;MG;F;45-54;2024-05-24
+182;Cliente 0182;Novo;RS;Nao informado;18-24;2024-10-15
+183;Cliente 0183;Recorrente;RS;Nao informado;55+;2025-04-03
+184;Cliente 0184;Novo;BA;Nao informado;35-44;2023-06-11
+185;Cliente 0185;Risco;RS;M;35-44;2024-10-16
+186;Cliente 0186;Risco;CE;F;25-34;2023-07-23
+187;Cliente 0187;Recorrente;GO;M;35-44;2024-01-26
+188;Cliente 0188;Risco;AM;M;35-44;2023-01-23
+189;Cliente 0189;Recorrente;AM;Nao informado;18-24;2023-01-09
+190;Cliente 0190;Recorrente;RS;F;55+;2024-09-12
+191;Cliente 0191;Recorrente;AM;F;55+;2025-04-01
+192;Cliente 0192;Recorrente;AM;Nao informado;25-34;2023-09-14
+193;Cliente 0193;Novo;AM;Nao informado;18-24;2024-10-05
+194;Cliente 0194;VIP;SP;Nao informado;35-44;2023-11-13
+195;Cliente 0195;Novo;RS;M;45-54;2025-01-19
+196;Cliente 0196;Novo;DF;M;55+;2023-06-29
+197;Cliente 0197;Risco;MG;M;45-54;2024-05-28
+198;Cliente 0198;Novo;BA;F;45-54;2025-04-05
+199;Cliente 0199;Novo;PR;Nao informado;45-54;2023-03-19
+200;Cliente 0200;VIP;BA;F;45-54;2025-05-16
+201;Cliente 0201;Novo;RJ;M;35-44;2023-01-15
+202;Cliente 0202;Recorrente;RS;Nao informado;45-54;2024-11-19
+203;Cliente 0203;Recorrente;BA;F;25-34;2025-04-22
+204;Cliente 0204;Novo;DF;M;55+;2024-04-27
+205;Cliente 0205;Recorrente;AM;M;35-44;2023-08-15
+206;Cliente 0206;Recorrente;MG;F;18-24;2024-10-26
+207;Cliente 0207;Risco;RJ;F;25-34;2023-11-08
+208;Cliente 0208;Novo;CE;M;55+;2024-07-04
+209;Cliente 0209;Recorrente;MG;M;18-24;2024-03-05
+210;Cliente 0210;Recorrente;PE;M;18-24;2025-05-03
+211;Cliente 0211;Recorrente;CE;M;25-34;2024-12-07
+212;Cliente 0212;Recorrente;AM;M;55+;2025-05-25
+213;Cliente 0213;Recorrente;PE;M;25-34;2024-10-22
+214;Cliente 0214;Risco;CE;F;25-34;2023-05-06
+215;Cliente 0215;Recorrente;SP;F;35-44;2024-10-19
+216;Cliente 0216;Risco;GO;F;18-24;2023-09-07
+217;Cliente 0217;Recorrente;PR;Nao informado;25-34;2025-04-29
+218;Cliente 0218;VIP;BA;F;55+;2025-04-12
+219;Cliente 0219;Novo;MG;F;55+;2023-01-03
+220;Cliente 0220;VIP;RJ;Nao informado;18-24;2023-09-14
+221;Cliente 0221;Novo;PR;Nao informado;35-44;2023-05-15
+222;Cliente 0222;Novo;SP;F;45-54;2023-01-17
+223;Cliente 0223;Novo;RJ;M;45-54;2024-06-22
+224;Cliente 0224;Recorrente;GO;F;45-54;2025-03-07
+225;Cliente 0225;Novo;GO;F;55+;2024-05-30
+226;Cliente 0226;Recorrente;SP;F;45-54;2023-11-05
+227;Cliente 0227;Recorrente;AM;F;45-54;2025-05-17
+228;Cliente 0228;Risco;RJ;F;35-44;2024-12-30
+229;Cliente 0229;Novo;MG;M;55+;2024-09-14
+230;Cliente 0230;Recorrente;BA;M;55+;2024-10-10
+231;Cliente 0231;Novo;DF;Nao informado;45-54;2024-06-27
+232;Cliente 0232;VIP;RJ;Nao informado;55+;2023-04-12
+233;Cliente 0233;VIP;PE;M;25-34;2025-01-08
+234;Cliente 0234;Novo;CE;M;45-54;2024-02-28
+235;Cliente 0235;Novo;PE;M;35-44;2025-01-17
+236;Cliente 0236;Risco;AM;M;18-24;2024-01-19
+237;Cliente 0237;VIP;RJ;M;18-24;2023-04-04
+238;Cliente 0238;Recorrente;MG;Nao informado;18-24;2025-02-01
+239;Cliente 0239;Risco;DF;M;18-24;2024-08-23
+240;Cliente 0240;Recorrente;AM;M;18-24;2024-02-25
+241;Cliente 0241;Recorrente;BA;F;55+;2023-10-22
+242;Cliente 0242;Novo;AM;M;25-34;2024-06-03
+243;Cliente 0243;Novo;DF;M;18-24;2025-05-17
+244;Cliente 0244;Novo;PR;M;55+;2025-02-19
+245;Cliente 0245;VIP;GO;Nao informado;55+;2025-02-24
+246;Cliente 0246;Recorrente;AM;Nao informado;35-44;2023-01-27
+247;Cliente 0247;Novo;RS;M;35-44;2023-01-30
+248;Cliente 0248;Novo;MG;Nao informado;45-54;2023-01-07
+249;Cliente 0249;Novo;AM;F;18-24;2023-03-13
+250;Cliente 0250;Recorrente;PE;M;45-54;2025-02-03
+251;Cliente 0251;Novo;RS;Nao informado;35-44;2023-12-16
+252;Cliente 0252;Risco;GO;F;18-24;2025-03-06
+253;Cliente 0253;Novo;GO;F;18-24;2023-06-09
+254;Cliente 0254;Recorrente;PE;M;55+;2023-10-06
+255;Cliente 0255;Recorrente;PR;Nao informado;18-24;2024-03-28
+256;Cliente 0256;Recorrente;RS;Nao informado;55+;2023-12-20
+257;Cliente 0257;Recorrente;RS;F;25-34;2024-05-13
+258;Cliente 0258;Risco;SP;F;25-34;2024-02-09
+259;Cliente 0259;Risco;MG;M;35-44;2023-11-05
+260;Cliente 0260;Novo;CE;Nao informado;45-54;2023-12-02
+261;Cliente 0261;Novo;DF;Nao informado;25-34;2023-06-29
+262;Cliente 0262;Recorrente;AM;M;18-24;2024-05-27
+263;Cliente 0263;VIP;SP;M;18-24;2024-02-11
+264;Cliente 0264;Risco;BA;Nao informado;45-54;2024-04-15
+265;Cliente 0265;Recorrente;AM;M;35-44;2024-08-10
+266;Cliente 0266;Recorrente;BA;F;55+;2023-04-28
+267;Cliente 0267;VIP;BA;F;45-54;2024-04-16
+268;Cliente 0268;Novo;PE;Nao informado;45-54;2025-05-14
+269;Cliente 0269;Novo;RS;Nao informado;35-44;2024-06-20
+270;Cliente 0270;Novo;MG;F;55+;2023-08-15
+271;Cliente 0271;Novo;DF;F;35-44;2024-10-10
+272;Cliente 0272;Recorrente;AM;F;25-34;2023-12-26
+273;Cliente 0273;Novo;PR;F;55+;2023-04-16
+274;Cliente 0274;Recorrente;AM;F;25-34;2023-06-06
+275;Cliente 0275;Recorrente;CE;Nao informado;55+;2025-03-02
+276;Cliente 0276;Recorrente;GO;Nao informado;55+;2024-04-04
+277;Cliente 0277;VIP;AM;M;25-34;2023-11-27
+278;Cliente 0278;Novo;CE;Nao informado;35-44;2024-03-26
+279;Cliente 0279;Novo;SP;M;55+;2025-03-26
+280;Cliente 0280;Novo;CE;F;18-24;2023-03-17
+281;Cliente 0281;VIP;RJ;Nao informado;18-24;2024-01-13
+282;Cliente 0282;Recorrente;PE;M;55+;2024-09-21
+283;Cliente 0283;Risco;SP;M;55+;2024-07-21
+284;Cliente 0284;Novo;GO;M;55+;2024-10-29
+285;Cliente 0285;Risco;CE;F;35-44;2023-06-04
+286;Cliente 0286;Novo;AM;F;18-24;2025-01-01
+287;Cliente 0287;Recorrente;CE;Nao informado;55+;2023-09-11
+288;Cliente 0288;Novo;BA;M;45-54;2024-09-16
+289;Cliente 0289;VIP;AM;Nao informado;18-24;2024-02-23
+290;Cliente 0290;Recorrente;BA;F;35-44;2025-03-19
+291;Cliente 0291;Recorrente;PE;M;35-44;2023-04-07
+292;Cliente 0292;VIP;GO;F;35-44;2025-01-11
+293;Cliente 0293;Recorrente;MG;M;35-44;2023-03-25
+294;Cliente 0294;Recorrente;PE;F;55+;2024-11-02
+295;Cliente 0295;Risco;RS;Nao informado;45-54;2024-12-26
+296;Cliente 0296;VIP;MG;Nao informado;55+;2024-10-20
+297;Cliente 0297;Recorrente;PE;Nao informado;35-44;2023-04-06
+298;Cliente 0298;Recorrente;MG;F;35-44;2023-01-19
+299;Cliente 0299;Recorrente;PR;F;25-34;2025-02-23
+300;Cliente 0300;Novo;RJ;Nao informado;55+;2023-03-21
+301;Cliente 0301;Recorrente;DF;F;35-44;2025-05-05
+302;Cliente 0302;Recorrente;MG;Nao informado;45-54;2025-06-16
+303;Cliente 0303;Novo;GO;F;45-54;2023-06-07
+304;Cliente 0304;Recorrente;AM;Nao informado;25-34;2023-02-14
+305;Cliente 0305;Recorrente;CE;F;55+;2024-03-30
+306;Cliente 0306;Novo;CE;F;35-44;2023-09-02
+307;Cliente 0307;Risco;CE;M;35-44;2024-11-25
+308;Cliente 0308;Recorrente;DF;M;25-34;2025-03-07
+309;Cliente 0309;Novo;GO;F;35-44;2025-04-16
+310;Cliente 0310;Recorrente;BA;Nao informado;18-24;2023-02-23
+311;Cliente 0311;VIP;RJ;M;18-24;2024-12-29
+312;Cliente 0312;Novo;CE;Nao informado;25-34;2025-02-20
+313;Cliente 0313;Recorrente;PR;M;35-44;2025-04-30
+314;Cliente 0314;Recorrente;PE;Nao informado;35-44;2023-01-28
+315;Cliente 0315;Recorrente;RJ;M;25-34;2023-08-30
+316;Cliente 0316;Novo;RJ;Nao informado;35-44;2023-01-29
+317;Cliente 0317;Novo;SP;M;45-54;2025-03-21
+318;Cliente 0318;VIP;CE;M;55+;2024-12-13
+319;Cliente 0319;Risco;SP;M;25-34;2023-01-06
+320;Cliente 0320;Novo;GO;Nao informado;45-54;2025-05-05
+321;Cliente 0321;VIP;PR;M;18-24;2023-04-24
+322;Cliente 0322;Novo;AM;Nao informado;45-54;2023-02-18
+323;Cliente 0323;Novo;CE;Nao informado;55+;2023-03-06
+324;Cliente 0324;Recorrente;GO;F;25-34;2023-01-17
+325;Cliente 0325;Recorrente;GO;M;25-34;2023-10-26
+326;Cliente 0326;Recorrente;AM;Nao informado;18-24;2024-08-07
+327;Cliente 0327;Risco;RJ;Nao informado;55+;2024-06-20
+328;Cliente 0328;VIP;DF;Nao informado;18-24;2024-06-03
+329;Cliente 0329;VIP;SP;Nao informado;45-54;2024-02-04
+330;Cliente 0330;Novo;SP;M;18-24;2024-01-18
+331;Cliente 0331;Novo;AM;Nao informado;18-24;2023-12-20
+332;Cliente 0332;Recorrente;BA;F;18-24;2025-03-01
+333;Cliente 0333;Recorrente;AM;F;45-54;2023-12-27
+334;Cliente 0334;Recorrente;MG;F;18-24;2024-12-13
+335;Cliente 0335;VIP;CE;F;35-44;2025-01-03
+336;Cliente 0336;Novo;PR;F;35-44;2023-07-26
+337;Cliente 0337;Recorrente;DF;M;35-44;2023-11-14
+338;Cliente 0338;Recorrente;PR;M;35-44;2023-02-07
+339;Cliente 0339;VIP;AM;M;35-44;2025-06-01
+340;Cliente 0340;VIP;PE;M;45-54;2023-05-08
+341;Cliente 0341;Novo;MG;M;45-54;2024-01-31
+342;Cliente 0342;Risco;DF;M;18-24;2024-01-12
+343;Cliente 0343;Recorrente;PE;Nao informado;25-34;2025-01-14
+344;Cliente 0344;Novo;RJ;F;35-44;2024-07-12
+345;Cliente 0345;Novo;CE;Nao informado;45-54;2024-11-07
+346;Cliente 0346;Recorrente;BA;M;18-24;2023-06-20
+347;Cliente 0347;VIP;BA;Nao informado;45-54;2025-01-14
+348;Cliente 0348;Recorrente;SP;F;45-54;2023-10-09
+349;Cliente 0349;Recorrente;AM;F;18-24;2024-01-08
+350;Cliente 0350;VIP;AM;M;18-24;2023-05-27
+351;Cliente 0351;Novo;AM;M;35-44;2023-05-10
+352;Cliente 0352;Risco;SP;Nao informado;25-34;2024-01-28
+353;Cliente 0353;Recorrente;BA;M;45-54;2024-11-26
+354;Cliente 0354;Novo;MG;Nao informado;35-44;2025-02-20
+355;Cliente 0355;Novo;RS;F;18-24;2024-02-12
+356;Cliente 0356;Recorrente;CE;Nao informado;45-54;2023-01-27
+357;Cliente 0357;Novo;RS;Nao informado;45-54;2024-07-29
+358;Cliente 0358;Risco;RS;Nao informado;45-54;2023-08-08
+359;Cliente 0359;Novo;RJ;M;25-34;2023-07-24
+360;Cliente 0360;Recorrente;RJ;Nao informado;35-44;2024-12-31
+361;Cliente 0361;Novo;RJ;Nao informado;55+;2024-11-14
+362;Cliente 0362;VIP;MG;Nao informado;25-34;2023-10-25
+363;Cliente 0363;Recorrente;PR;F;25-34;2025-03-23
+364;Cliente 0364;Novo;CE;F;35-44;2025-03-22
+365;Cliente 0365;Recorrente;CE;Nao informado;25-34;2024-07-21
+366;Cliente 0366;VIP;RJ;M;45-54;2024-09-18
+367;Cliente 0367;Recorrente;DF;M;45-54;2025-01-04
+368;Cliente 0368;Recorrente;MG;M;18-24;2025-04-23
+369;Cliente 0369;Recorrente;DF;M;25-34;2024-04-05
+370;Cliente 0370;VIP;DF;Nao informado;55+;2025-06-18
+371;Cliente 0371;Recorrente;MG;M;55+;2023-07-06
+372;Cliente 0372;Novo;RJ;Nao informado;25-34;2025-06-08
+373;Cliente 0373;Novo;BA;Nao informado;25-34;2023-11-08
+374;Cliente 0374;Risco;DF;M;18-24;2023-12-21
+375;Cliente 0375;Novo;DF;M;25-34;2023-09-14
+376;Cliente 0376;Novo;DF;F;55+;2024-10-02
+377;Cliente 0377;Novo;GO;F;25-34;2024-10-18
+378;Cliente 0378;Recorrente;GO;M;55+;2024-11-05
+379;Cliente 0379;VIP;SP;F;18-24;2023-02-12
+380;Cliente 0380;VIP;RS;Nao informado;25-34;2024-10-18
+381;Cliente 0381;Recorrente;GO;Nao informado;18-24;2025-02-24
+382;Cliente 0382;VIP;DF;M;35-44;2024-05-24
+383;Cliente 0383;Novo;AM;M;35-44;2024-05-09
+384;Cliente 0384;Novo;SP;F;45-54;2024-04-09
+385;Cliente 0385;Recorrente;PR;M;55+;2024-03-01
+386;Cliente 0386;Novo;BA;Nao informado;35-44;2023-05-28
+387;Cliente 0387;Novo;BA;Nao informado;55+;2024-02-13
+388;Cliente 0388;Novo;CE;F;35-44;2023-04-19
+389;Cliente 0389;Novo;RJ;F;35-44;2024-04-05
+390;Cliente 0390;VIP;PE;F;25-34;2024-01-29
+391;Cliente 0391;Novo;GO;Nao informado;35-44;2025-04-13
+392;Cliente 0392;Recorrente;CE;Nao informado;45-54;2023-07-14
+393;Cliente 0393;VIP;CE;F;18-24;2024-05-25
+394;Cliente 0394;Recorrente;PR;F;55+;2024-02-07
+395;Cliente 0395;Novo;RS;M;55+;2023-12-28
+396;Cliente 0396;Recorrente;CE;M;55+;2025-05-13
+397;Cliente 0397;VIP;PE;F;35-44;2023-01-09
+398;Cliente 0398;Recorrente;PE;M;18-24;2025-01-14
+399;Cliente 0399;Novo;DF;F;35-44;2024-02-15
+400;Cliente 0400;Novo;PE;Nao informado;45-54;2024-07-20
+401;Cliente 0401;Recorrente;GO;Nao informado;55+;2025-02-21
+402;Cliente 0402;Novo;RJ;M;35-44;2023-05-02
+403;Cliente 0403;Risco;DF;M;25-34;2025-03-24
+404;Cliente 0404;Recorrente;PE;Nao informado;18-24;2023-07-23
+405;Cliente 0405;Novo;BA;M;55+;2023-02-16
+406;Cliente 0406;Novo;DF;F;35-44;2024-04-12
+407;Cliente 0407;Novo;PE;Nao informado;35-44;2024-09-19
+408;Cliente 0408;Novo;DF;Nao informado;45-54;2024-08-30
+409;Cliente 0409;Recorrente;CE;F;35-44;2024-12-26
+410;Cliente 0410;Recorrente;PE;Nao informado;35-44;2023-12-06
+411;Cliente 0411;VIP;AM;F;55+;2025-03-26
+412;Cliente 0412;Novo;AM;Nao informado;55+;2024-04-30
+413;Cliente 0413;Recorrente;GO;M;25-34;2023-08-22
+414;Cliente 0414;Recorrente;GO;M;25-34;2024-06-20
+415;Cliente 0415;Recorrente;SP;Nao informado;18-24;2025-04-21
+416;Cliente 0416;Novo;BA;M;25-34;2023-07-15
+417;Cliente 0417;Recorrente;PE;Nao informado;55+;2024-02-27
+418;Cliente 0418;VIP;SP;Nao informado;25-34;2024-04-27
+419;Cliente 0419;Novo;BA;Nao informado;45-54;2024-06-15
+420;Cliente 0420;Recorrente;MG;M;55+;2024-06-22
+421;Cliente 0421;Recorrente;AM;Nao informado;35-44;2023-12-17
+422;Cliente 0422;Recorrente;PR;M;55+;2024-09-16
+423;Cliente 0423;Novo;RS;M;25-34;2023-11-02
+424;Cliente 0424;Recorrente;BA;M;35-44;2024-12-07
+425;Cliente 0425;Risco;RS;M;18-24;2024-07-27
+426;Cliente 0426;Recorrente;PE;M;35-44;2024-08-10
+427;Cliente 0427;VIP;RS;F;35-44;2025-03-02
+428;Cliente 0428;Novo;CE;Nao informado;35-44;2025-01-01
+429;Cliente 0429;Recorrente;PR;Nao informado;35-44;2025-02-04
+430;Cliente 0430;Recorrente;MG;F;55+;2024-07-29
+431;Cliente 0431;Recorrente;PR;F;55+;2025-01-28
+432;Cliente 0432;Recorrente;SP;F;45-54;2023-08-20
+433;Cliente 0433;Recorrente;RJ;Nao informado;25-34;2023-12-05
+434;Cliente 0434;Risco;MG;M;45-54;2023-01-06
+435;Cliente 0435;Recorrente;RS;M;35-44;2024-05-03
+436;Cliente 0436;Novo;RJ;Nao informado;55+;2024-10-23
+437;Cliente 0437;Recorrente;SP;F;45-54;2023-08-26
+438;Cliente 0438;Novo;SP;M;45-54;2025-05-07
+439;Cliente 0439;Risco;RS;F;18-24;2023-07-10
+440;Cliente 0440;Recorrente;RJ;M;35-44;2023-11-02
+441;Cliente 0441;Risco;DF;Nao informado;45-54;2024-04-10
+442;Cliente 0442;VIP;CE;M;25-34;2023-05-18
+443;Cliente 0443;Novo;MG;Nao informado;45-54;2025-04-08
+444;Cliente 0444;Novo;MG;F;35-44;2024-10-25
+445;Cliente 0445;Novo;AM;F;25-34;2025-03-20
+446;Cliente 0446;VIP;PE;M;55+;2024-09-17
+447;Cliente 0447;Novo;AM;F;25-34;2023-12-02
+448;Cliente 0448;Recorrente;PR;F;35-44;2023-05-24
+449;Cliente 0449;Novo;RS;M;35-44;2024-01-28
+450;Cliente 0450;Recorrente;SP;M;35-44;2024-08-19
+451;Cliente 0451;Novo;AM;F;45-54;2024-12-10
+452;Cliente 0452;Novo;AM;Nao informado;35-44;2023-11-11
+453;Cliente 0453;Novo;RS;M;55+;2024-12-07
+454;Cliente 0454;Novo;MG;M;25-34;2023-08-15
+455;Cliente 0455;Recorrente;GO;M;45-54;2024-04-10
+456;Cliente 0456;Recorrente;CE;Nao informado;25-34;2024-12-19
+457;Cliente 0457;Novo;GO;F;55+;2025-02-19
+458;Cliente 0458;Recorrente;BA;F;55+;2024-04-02
+459;Cliente 0459;Novo;DF;Nao informado;25-34;2023-04-25
+460;Cliente 0460;Recorrente;MG;M;55+;2024-08-09
+461;Cliente 0461;Novo;PR;Nao informado;55+;2024-03-28
+462;Cliente 0462;Novo;DF;M;18-24;2024-05-15
+463;Cliente 0463;Novo;PE;M;55+;2024-04-09
+464;Cliente 0464;Recorrente;AM;M;18-24;2023-03-01
+465;Cliente 0465;Novo;SP;Nao informado;25-34;2024-02-10
+466;Cliente 0466;Novo;PE;M;18-24;2024-08-15
+467;Cliente 0467;Risco;RJ;M;18-24;2024-07-08
+468;Cliente 0468;Recorrente;MG;Nao informado;45-54;2023-10-21
+469;Cliente 0469;Risco;PE;M;45-54;2024-01-19
+470;Cliente 0470;Novo;AM;Nao informado;25-34;2024-01-20
+471;Cliente 0471;VIP;RJ;F;55+;2024-10-31
+472;Cliente 0472;Recorrente;PR;F;18-24;2024-02-07
+473;Cliente 0473;Recorrente;DF;M;55+;2023-11-02
+474;Cliente 0474;VIP;PR;M;35-44;2024-01-24
+475;Cliente 0475;Novo;RJ;F;45-54;2023-06-08
+476;Cliente 0476;Recorrente;SP;F;25-34;2024-09-21
+477;Cliente 0477;Novo;SP;M;55+;2023-03-10
+478;Cliente 0478;Recorrente;SP;F;18-24;2024-11-19
+479;Cliente 0479;Recorrente;DF;F;18-24;2024-02-16
+480;Cliente 0480;Recorrente;RS;F;55+;2023-05-24
+481;Cliente 0481;Recorrente;AM;M;25-34;2023-11-23
+482;Cliente 0482;VIP;AM;Nao informado;25-34;2023-11-06
+483;Cliente 0483;Novo;SP;Nao informado;55+;2024-02-28
+484;Cliente 0484;Recorrente;MG;Nao informado;45-54;2025-06-19
+485;Cliente 0485;Recorrente;BA;Nao informado;45-54;2024-07-23
+486;Cliente 0486;Recorrente;PE;M;25-34;2025-03-15
+487;Cliente 0487;Recorrente;DF;M;25-34;2023-11-04
+488;Cliente 0488;Novo;MG;M;18-24;2025-05-19
+489;Cliente 0489;Recorrente;PE;Nao informado;55+;2024-07-29
+490;Cliente 0490;Recorrente;RS;F;35-44;2023-05-18
+491;Cliente 0491;Novo;CE;M;18-24;2024-10-24
+492;Cliente 0492;Recorrente;PR;F;35-44;2024-07-02
+493;Cliente 0493;Recorrente;GO;F;18-24;2024-01-22
+494;Cliente 0494;VIP;GO;Nao informado;55+;2023-07-12
+495;Cliente 0495;Recorrente;BA;M;18-24;2023-08-11
+496;Cliente 0496;Risco;RJ;Nao informado;45-54;2023-08-05
+497;Cliente 0497;Recorrente;PR;M;25-34;2023-09-06
+498;Cliente 0498;Novo;RS;M;45-54;2024-07-19
+499;Cliente 0499;Recorrente;RS;M;35-44;2024-06-30
+500;Cliente 0500;VIP;CE;F;45-54;2024-06-09
+501;Cliente 0501;VIP;PR;M;35-44;2025-02-18
+502;Cliente 0502;Novo;PR;Nao informado;25-34;2024-02-28
+503;Cliente 0503;Novo;GO;Nao informado;45-54;2023-01-17
+504;Cliente 0504;Novo;BA;F;45-54;2023-10-30
+505;Cliente 0505;VIP;CE;Nao informado;35-44;2024-08-06
+506;Cliente 0506;Recorrente;CE;Nao informado;45-54;2023-09-21
+507;Cliente 0507;Novo;BA;F;25-34;2024-04-16
+508;Cliente 0508;Recorrente;MG;Nao informado;18-24;2025-01-07
+509;Cliente 0509;Novo;RJ;Nao informado;18-24;2024-06-20
+510;Cliente 0510;Novo;MG;Nao informado;25-34;2025-02-21
+511;Cliente 0511;Recorrente;SP;F;55+;2023-03-11
+512;Cliente 0512;Recorrente;GO;Nao informado;55+;2024-04-11
+513;Cliente 0513;Recorrente;SP;F;55+;2024-05-09
+514;Cliente 0514;Recorrente;SP;Nao informado;35-44;2024-07-18
+515;Cliente 0515;Risco;SP;Nao informado;45-54;2024-07-02
+516;Cliente 0516;Risco;MG;F;18-24;2025-04-05
+517;Cliente 0517;Novo;PR;Nao informado;55+;2024-06-20
+518;Cliente 0518;VIP;RS;M;18-24;2023-09-16
+519;Cliente 0519;Risco;CE;Nao informado;25-34;2024-01-18
+520;Cliente 0520;Novo;AM;F;18-24;2024-12-14
+521;Cliente 0521;Recorrente;PE;Nao informado;45-54;2023-04-06
+522;Cliente 0522;Recorrente;MG;F;45-54;2023-02-27
+523;Cliente 0523;Recorrente;BA;Nao informado;18-24;2025-05-15
+524;Cliente 0524;Risco;PR;F;55+;2024-06-24
+525;Cliente 0525;Novo;RJ;Nao informado;35-44;2024-05-01
+526;Cliente 0526;Recorrente;SP;F;35-44;2024-07-10
+527;Cliente 0527;Risco;GO;F;45-54;2023-01-17
+528;Cliente 0528;Novo;GO;F;55+;2023-03-20
+529;Cliente 0529;VIP;AM;Nao informado;35-44;2025-05-04
+530;Cliente 0530;Recorrente;MG;Nao informado;18-24;2024-01-29
+531;Cliente 0531;Recorrente;BA;F;18-24;2024-05-27
+532;Cliente 0532;Novo;RJ;M;55+;2024-03-23
+533;Cliente 0533;Recorrente;GO;M;35-44;2025-02-26
+534;Cliente 0534;Recorrente;CE;M;25-34;2023-01-31
+535;Cliente 0535;Recorrente;PE;M;25-34;2023-12-31
+536;Cliente 0536;Recorrente;PE;F;55+;2024-11-27
+537;Cliente 0537;VIP;RJ;F;35-44;2023-10-30
+538;Cliente 0538;Recorrente;AM;F;45-54;2023-06-07
+539;Cliente 0539;Recorrente;RJ;F;35-44;2023-11-21
+540;Cliente 0540;Recorrente;RS;F;25-34;2024-03-31
+541;Cliente 0541;Novo;CE;Nao informado;55+;2023-03-31
+542;Cliente 0542;Recorrente;SP;F;35-44;2024-06-08
+543;Cliente 0543;Novo;GO;M;45-54;2024-07-21
+544;Cliente 0544;Novo;PE;F;55+;2023-01-13
+545;Cliente 0545;Recorrente;MG;Nao informado;45-54;2023-09-06
+546;Cliente 0546;Novo;RS;M;45-54;2023-06-23
+547;Cliente 0547;Novo;PE;M;45-54;2023-05-30
+548;Cliente 0548;Recorrente;RJ;M;35-44;2023-11-03
+549;Cliente 0549;Recorrente;CE;Nao informado;55+;2023-09-10
+550;Cliente 0550;Recorrente;MG;M;18-24;2023-07-20
+551;Cliente 0551;Novo;GO;M;35-44;2024-02-10
+552;Cliente 0552;Novo;AM;Nao informado;25-34;2024-03-26
+553;Cliente 0553;Novo;PR;M;35-44;2023-11-04
+554;Cliente 0554;Risco;BA;M;45-54;2023-07-01
+555;Cliente 0555;VIP;BA;M;35-44;2024-08-12
+556;Cliente 0556;VIP;BA;F;55+;2025-04-16
+557;Cliente 0557;Recorrente;DF;F;55+;2023-07-24
+558;Cliente 0558;Risco;CE;Nao informado;25-34;2023-01-28
+559;Cliente 0559;VIP;RJ;M;45-54;2024-03-24
+560;Cliente 0560;Recorrente;PR;M;25-34;2023-05-23
+561;Cliente 0561;Recorrente;PE;F;45-54;2025-01-02
+562;Cliente 0562;Recorrente;PE;Nao informado;55+;2024-09-04
+563;Cliente 0563;Recorrente;DF;F;35-44;2025-06-09
+564;Cliente 0564;VIP;DF;Nao informado;18-24;2024-12-19
+565;Cliente 0565;Recorrente;AM;Nao informado;35-44;2023-04-22
+566;Cliente 0566;Recorrente;SP;Nao informado;45-54;2023-06-20
+567;Cliente 0567;Novo;PE;F;18-24;2025-02-09
+568;Cliente 0568;Novo;DF;Nao informado;55+;2023-04-11
+569;Cliente 0569;Recorrente;GO;F;45-54;2024-07-25
+570;Cliente 0570;Recorrente;AM;Nao informado;55+;2024-01-19
+571;Cliente 0571;Novo;SP;M;18-24;2023-06-04
+572;Cliente 0572;Recorrente;RJ;F;25-34;2023-10-30
+573;Cliente 0573;Novo;CE;F;55+;2023-12-23
+574;Cliente 0574;Novo;RJ;M;45-54;2024-05-09
+575;Cliente 0575;Novo;SP;Nao informado;18-24;2023-11-23
+576;Cliente 0576;VIP;AM;F;25-34;2023-01-24
+577;Cliente 0577;Novo;MG;Nao informado;25-34;2025-01-28
+578;Cliente 0578;Recorrente;CE;F;45-54;2023-12-05
+579;Cliente 0579;Novo;AM;Nao informado;45-54;2024-10-06
+580;Cliente 0580;Novo;GO;F;45-54;2024-02-10
+581;Cliente 0581;Recorrente;SP;Nao informado;25-34;2024-08-29
+582;Cliente 0582;Novo;RJ;Nao informado;18-24;2023-07-30
+583;Cliente 0583;VIP;MG;M;35-44;2025-03-29
+584;Cliente 0584;Recorrente;RS;Nao informado;45-54;2023-07-21
+585;Cliente 0585;Risco;BA;Nao informado;45-54;2024-06-24
+586;Cliente 0586;Recorrente;RJ;M;35-44;2024-09-17
+587;Cliente 0587;Recorrente;MG;Nao informado;35-44;2025-05-15
+588;Cliente 0588;Recorrente;AM;F;35-44;2024-09-21
+589;Cliente 0589;Novo;RJ;F;35-44;2023-05-01
+590;Cliente 0590;Novo;PE;M;55+;2024-12-11
+591;Cliente 0591;Recorrente;PE;F;45-54;2023-05-22
+592;Cliente 0592;Recorrente;AM;F;55+;2024-10-12
+593;Cliente 0593;Recorrente;MG;F;35-44;2023-06-20
+594;Cliente 0594;Recorrente;SP;M;18-24;2025-05-12
+595;Cliente 0595;Novo;PE;Nao informado;55+;2024-05-11
+596;Cliente 0596;Recorrente;AM;M;45-54;2024-10-30
+597;Cliente 0597;VIP;CE;F;18-24;2024-12-28
+598;Cliente 0598;Novo;PR;M;18-24;2024-08-01
+599;Cliente 0599;Novo;RS;F;45-54;2023-10-09
+600;Cliente 0600;Recorrente;CE;Nao informado;55+;2024-08-02
+601;Cliente 0601;Recorrente;RS;Nao informado;35-44;2023-04-26
+602;Cliente 0602;VIP;SP;Nao informado;45-54;2024-07-09
+603;Cliente 0603;Novo;PE;F;25-34;2024-07-13
+604;Cliente 0604;VIP;SP;M;35-44;2023-11-01
+605;Cliente 0605;VIP;RJ;M;18-24;2023-12-23
+606;Cliente 0606;VIP;PR;Nao informado;55+;2025-03-05
+607;Cliente 0607;Recorrente;GO;Nao informado;45-54;2024-12-06
+608;Cliente 0608;Recorrente;PR;F;18-24;2023-06-19
+609;Cliente 0609;Recorrente;RS;Nao informado;55+;2024-08-06
+610;Cliente 0610;Novo;RS;M;55+;2023-06-22
+611;Cliente 0611;Risco;DF;Nao informado;18-24;2023-10-01
+612;Cliente 0612;Risco;PE;F;35-44;2023-05-19
+613;Cliente 0613;Recorrente;MG;F;25-34;2025-06-06
+614;Cliente 0614;Novo;PR;Nao informado;45-54;2024-12-29
+615;Cliente 0615;Novo;AM;M;45-54;2024-05-16
+616;Cliente 0616;Recorrente;AM;F;45-54;2024-01-20
+617;Cliente 0617;Recorrente;BA;M;45-54;2024-06-11
+618;Cliente 0618;Recorrente;RJ;Nao informado;45-54;2023-12-02
+619;Cliente 0619;Recorrente;BA;F;55+;2024-10-12
+620;Cliente 0620;Novo;PE;F;45-54;2024-02-12
+621;Cliente 0621;Novo;RS;M;55+;2023-10-02
+622;Cliente 0622;Novo;CE;M;18-24;2024-08-14
+623;Cliente 0623;Novo;CE;F;18-24;2023-02-17
+624;Cliente 0624;Novo;CE;F;45-54;2025-05-28
+625;Cliente 0625;Risco;MG;Nao informado;35-44;2023-07-27
+626;Cliente 0626;VIP;RS;F;35-44;2023-06-12
+627;Cliente 0627;Novo;AM;Nao informado;25-34;2023-09-14
+628;Cliente 0628;Recorrente;RS;Nao informado;25-34;2023-02-23
+629;Cliente 0629;Recorrente;RJ;F;25-34;2024-03-15
+630;Cliente 0630;Novo;GO;F;55+;2024-05-03
+631;Cliente 0631;Recorrente;SP;Nao informado;35-44;2024-11-27
+632;Cliente 0632;Novo;PE;Nao informado;25-34;2025-04-16
+633;Cliente 0633;Novo;PE;F;18-24;2024-05-04
+634;Cliente 0634;Novo;RS;F;45-54;2023-04-16
+635;Cliente 0635;VIP;MG;Nao informado;25-34;2025-03-03
+636;Cliente 0636;Recorrente;SP;Nao informado;25-34;2023-03-12
+637;Cliente 0637;Recorrente;PR;Nao informado;25-34;2024-03-26
+638;Cliente 0638;Recorrente;CE;F;18-24;2024-02-26
+639;Cliente 0639;Novo;RJ;Nao informado;45-54;2023-04-13
+640;Cliente 0640;Risco;BA;F;25-34;2023-12-26
+641;Cliente 0641;Recorrente;PR;Nao informado;55+;2023-10-11
+642;Cliente 0642;Recorrente;RS;Nao informado;18-24;2024-09-06
+643;Cliente 0643;VIP;RS;F;55+;2025-05-18
+644;Cliente 0644;Recorrente;PE;M;18-24;2024-09-13
+645;Cliente 0645;VIP;PR;M;45-54;2025-03-13
+646;Cliente 0646;Novo;AM;Nao informado;18-24;2023-04-26
+647;Cliente 0647;VIP;SP;M;35-44;2024-06-24
+648;Cliente 0648;Recorrente;GO;M;35-44;2023-05-16
+649;Cliente 0649;Recorrente;CE;F;18-24;2024-07-13
+650;Cliente 0650;Novo;RS;F;18-24;2024-08-24
+651;Cliente 0651;Risco;PE;Nao informado;35-44;2023-03-03
+652;Cliente 0652;Recorrente;PE;M;45-54;2024-10-05
+653;Cliente 0653;Recorrente;DF;Nao informado;25-34;2023-03-26
+654;Cliente 0654;Novo;RJ;Nao informado;25-34;2023-10-12
+655;Cliente 0655;Novo;BA;M;55+;2025-04-07
+656;Cliente 0656;Recorrente;AM;Nao informado;18-24;2024-10-11
+657;Cliente 0657;Recorrente;PR;F;25-34;2023-11-14
+658;Cliente 0658;Risco;RJ;M;55+;2023-03-30
+659;Cliente 0659;Novo;AM;Nao informado;25-34;2024-09-15
+660;Cliente 0660;Novo;MG;Nao informado;18-24;2023-05-03
+661;Cliente 0661;Recorrente;BA;Nao informado;55+;2023-06-17
+662;Cliente 0662;VIP;RS;F;35-44;2025-03-12
+663;Cliente 0663;Recorrente;RS;Nao informado;18-24;2023-05-10
+664;Cliente 0664;VIP;BA;M;35-44;2025-02-28
+665;Cliente 0665;Novo;GO;Nao informado;18-24;2024-06-20
+666;Cliente 0666;Recorrente;BA;F;45-54;2024-05-23
+667;Cliente 0667;Recorrente;BA;F;35-44;2025-05-29
+668;Cliente 0668;Novo;GO;Nao informado;18-24;2025-03-02
+669;Cliente 0669;Recorrente;SP;F;18-24;2023-08-22
+670;Cliente 0670;Novo;BA;M;25-34;2023-09-08
+671;Cliente 0671;Risco;SP;Nao informado;45-54;2023-07-03
+672;Cliente 0672;Novo;PE;Nao informado;35-44;2023-08-18
+673;Cliente 0673;VIP;GO;M;18-24;2023-10-05
+674;Cliente 0674;Recorrente;SP;F;25-34;2024-05-29
+675;Cliente 0675;Recorrente;SP;M;18-24;2025-04-03
+676;Cliente 0676;Recorrente;RS;M;35-44;2025-06-17
+677;Cliente 0677;Recorrente;SP;M;25-34;2023-03-30
+678;Cliente 0678;Recorrente;RS;Nao informado;55+;2023-10-26
+679;Cliente 0679;Recorrente;GO;M;25-34;2023-09-06
+680;Cliente 0680;Risco;PR;F;18-24;2025-01-20
+681;Cliente 0681;Novo;DF;M;18-24;2024-02-24
+682;Cliente 0682;Novo;AM;M;35-44;2023-12-10
+683;Cliente 0683;Novo;PR;M;45-54;2023-04-17
+684;Cliente 0684;Risco;MG;Nao informado;35-44;2023-03-03
+685;Cliente 0685;Novo;PR;Nao informado;45-54;2023-04-06
+686;Cliente 0686;VIP;CE;Nao informado;18-24;2024-12-18
+687;Cliente 0687;Novo;MG;Nao informado;45-54;2024-08-17
+688;Cliente 0688;Recorrente;SP;M;25-34;2023-03-18
+689;Cliente 0689;Novo;BA;M;35-44;2023-08-31
+690;Cliente 0690;Recorrente;PR;F;25-34;2023-11-22
+691;Cliente 0691;VIP;GO;F;25-34;2023-05-20
+692;Cliente 0692;Novo;CE;M;45-54;2023-04-19
+693;Cliente 0693;Recorrente;PR;M;35-44;2023-05-04
+694;Cliente 0694;Novo;RJ;F;25-34;2024-04-19
+695;Cliente 0695;Recorrente;GO;F;25-34;2025-04-06
+696;Cliente 0696;VIP;MG;F;25-34;2025-05-05
+697;Cliente 0697;Recorrente;SP;Nao informado;35-44;2023-12-31
+698;Cliente 0698;VIP;MG;F;45-54;2023-09-24
+699;Cliente 0699;Recorrente;DF;F;18-24;2025-05-25
+700;Cliente 0700;Novo;MG;F;18-24;2024-04-18
+701;Cliente 0701;VIP;PR;F;25-34;2023-03-05
+702;Cliente 0702;Recorrente;AM;Nao informado;18-24;2025-04-23
+703;Cliente 0703;Recorrente;RJ;F;18-24;2024-08-19
+704;Cliente 0704;Risco;CE;F;18-24;2023-07-22
+705;Cliente 0705;VIP;BA;F;18-24;2025-05-17
+706;Cliente 0706;Novo;GO;M;45-54;2024-04-17
+707;Cliente 0707;Novo;AM;M;25-34;2024-05-23
+708;Cliente 0708;Novo;MG;M;35-44;2023-12-29
+709;Cliente 0709;VIP;SP;Nao informado;55+;2024-04-01
+710;Cliente 0710;Novo;RS;M;45-54;2024-09-23
+711;Cliente 0711;Recorrente;RJ;M;45-54;2024-07-17
+712;Cliente 0712;Recorrente;AM;Nao informado;25-34;2023-05-21
+713;Cliente 0713;Risco;DF;F;45-54;2024-10-07
+714;Cliente 0714;Recorrente;CE;Nao informado;45-54;2025-03-11
+715;Cliente 0715;Risco;DF;M;45-54;2023-12-19
+716;Cliente 0716;Novo;BA;Nao informado;25-34;2023-10-04
+717;Cliente 0717;VIP;RS;F;45-54;2023-01-31
+718;Cliente 0718;Recorrente;GO;F;25-34;2024-06-26
+719;Cliente 0719;Novo;PR;M;55+;2023-04-13
+720;Cliente 0720;VIP;SP;F;55+;2025-04-15
+721;Cliente 0721;Risco;PE;M;25-34;2025-05-16
+722;Cliente 0722;Novo;BA;Nao informado;35-44;2023-06-30
+723;Cliente 0723;Novo;BA;Nao informado;55+;2024-08-28
+724;Cliente 0724;Recorrente;PR;M;55+;2023-05-26
+725;Cliente 0725;Novo;SP;F;18-24;2023-11-13
+726;Cliente 0726;Recorrente;SP;Nao informado;45-54;2023-08-27
+727;Cliente 0727;Novo;GO;F;25-34;2023-01-01
+728;Cliente 0728;Recorrente;BA;F;18-24;2023-12-15
+729;Cliente 0729;Recorrente;MG;F;55+;2023-06-01
+730;Cliente 0730;Recorrente;RJ;M;45-54;2025-05-31
+731;Cliente 0731;Novo;RS;M;25-34;2024-08-23
+732;Cliente 0732;Recorrente;PE;Nao informado;45-54;2023-06-11
+733;Cliente 0733;Novo;DF;Nao informado;55+;2024-10-26
+734;Cliente 0734;Recorrente;AM;Nao informado;25-34;2025-03-16
+735;Cliente 0735;Novo;RS;F;25-34;2024-01-23
+736;Cliente 0736;Novo;GO;M;55+;2025-01-16
+737;Cliente 0737;Novo;BA;Nao informado;25-34;2023-02-03
+738;Cliente 0738;Recorrente;CE;F;35-44;2024-10-16
+739;Cliente 0739;Novo;BA;M;25-34;2025-02-02
+740;Cliente 0740;VIP;RJ;Nao informado;35-44;2024-10-13
+741;Cliente 0741;Novo;PR;F;18-24;2024-04-02
+742;Cliente 0742;Novo;RJ;Nao informado;18-24;2023-12-25
+743;Cliente 0743;Recorrente;PE;F;45-54;2023-02-19
+744;Cliente 0744;VIP;BA;Nao informado;45-54;2024-05-19
+745;Cliente 0745;VIP;GO;Nao informado;25-34;2023-04-14
+746;Cliente 0746;Recorrente;SP;M;18-24;2023-06-16
+747;Cliente 0747;Novo;RJ;F;35-44;2023-11-23
+748;Cliente 0748;VIP;MG;Nao informado;18-24;2023-06-24
+749;Cliente 0749;Risco;RJ;M;55+;2024-07-14
+750;Cliente 0750;VIP;SP;M;25-34;2024-09-20
+751;Cliente 0751;VIP;MG;F;18-24;2024-09-13
+752;Cliente 0752;Novo;PR;M;55+;2023-12-06
+753;Cliente 0753;Risco;DF;M;35-44;2025-01-09
+754;Cliente 0754;Novo;SP;M;55+;2023-11-01
+755;Cliente 0755;VIP;MG;F;35-44;2024-07-16
+756;Cliente 0756;Recorrente;RS;Nao informado;55+;2023-01-04
+757;Cliente 0757;Novo;SP;F;25-34;2024-05-06
+758;Cliente 0758;Novo;RJ;M;18-24;2024-10-15
+759;Cliente 0759;VIP;CE;M;35-44;2023-11-12
+760;Cliente 0760;Recorrente;PE;F;35-44;2023-04-04
+761;Cliente 0761;Recorrente;CE;F;35-44;2024-01-26
+762;Cliente 0762;Recorrente;PR;M;55+;2024-03-26
+763;Cliente 0763;Novo;AM;F;18-24;2023-03-05
+764;Cliente 0764;Novo;DF;M;55+;2024-11-15
+765;Cliente 0765;Recorrente;PE;Nao informado;45-54;2023-08-21
+766;Cliente 0766;Recorrente;CE;Nao informado;25-34;2024-07-02
+767;Cliente 0767;Novo;PE;Nao informado;18-24;2024-05-02
+768;Cliente 0768;Recorrente;DF;Nao informado;55+;2024-05-29
+769;Cliente 0769;Novo;CE;F;25-34;2023-05-31
+770;Cliente 0770;VIP;MG;F;45-54;2023-08-05
+771;Cliente 0771;Risco;PE;F;25-34;2023-03-22
+772;Cliente 0772;Recorrente;BA;Nao informado;18-24;2025-05-04
+773;Cliente 0773;Recorrente;PE;Nao informado;35-44;2023-03-31
+774;Cliente 0774;Novo;CE;F;55+;2025-05-27
+775;Cliente 0775;Recorrente;PE;F;45-54;2024-08-24
+776;Cliente 0776;Novo;GO;Nao informado;18-24;2023-06-03
+777;Cliente 0777;Recorrente;RJ;M;55+;2023-04-19
+778;Cliente 0778;VIP;RS;M;45-54;2023-12-19
+779;Cliente 0779;Recorrente;SP;F;35-44;2024-08-08
+780;Cliente 0780;Novo;GO;Nao informado;45-54;2024-02-17
+781;Cliente 0781;Recorrente;BA;Nao informado;25-34;2023-02-09
+782;Cliente 0782;Recorrente;RS;M;18-24;2023-02-20
+783;Cliente 0783;VIP;RS;M;35-44;2023-12-12
+784;Cliente 0784;Recorrente;AM;F;25-34;2025-05-13
+785;Cliente 0785;Novo;CE;M;35-44;2023-05-18
+786;Cliente 0786;Recorrente;AM;F;25-34;2025-01-16
+787;Cliente 0787;Novo;PE;Nao informado;45-54;2024-03-28
+788;Cliente 0788;Recorrente;BA;F;55+;2025-02-16
+789;Cliente 0789;Novo;RS;Nao informado;55+;2025-03-21
+790;Cliente 0790;Novo;DF;Nao informado;18-24;2024-02-18
+791;Cliente 0791;Novo;PR;F;25-34;2023-06-27
+792;Cliente 0792;Recorrente;BA;Nao informado;25-34;2023-02-03
+793;Cliente 0793;Recorrente;CE;Nao informado;45-54;2023-10-08
+794;Cliente 0794;Risco;AM;F;25-34;2024-10-12
+795;Cliente 0795;Recorrente;CE;F;45-54;2024-01-17
+796;Cliente 0796;Recorrente;BA;F;35-44;2024-08-23
+797;Cliente 0797;VIP;RJ;M;18-24;2025-02-05
+798;Cliente 0798;Novo;GO;F;25-34;2024-01-31
+799;Cliente 0799;Novo;PR;M;45-54;2024-10-24
+800;Cliente 0800;Novo;AM;F;45-54;2024-06-09

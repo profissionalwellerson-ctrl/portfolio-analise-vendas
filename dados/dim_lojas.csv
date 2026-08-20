@@ -1,0 +1,13 @@
+﻿LojaID;Loja;Cidade;Regiao;CanalLoja;DataAbertura
+1;Loja São Paulo;São Paulo;Sudeste;Loja Fisica;2022-02-10
+2;Loja Rio de Janeiro;Rio de Janeiro;Sudeste;Loja Fisica;2019-03-01
+3;Loja Belo Horizonte;Belo Horizonte;Sudeste;Loja Fisica;2019-03-01
+4;Loja Campinas;Campinas;Sudeste;Loja Fisica;2022-02-10
+5;Loja Curitiba;Curitiba;Sul;Loja Fisica;2020-08-15
+6;Loja Porto Alegre;Porto Alegre;Sul;Loja Fisica;2019-03-01
+7;Loja Salvador;Salvador;Nordeste;Loja Fisica;2019-03-01
+8;Loja Recife;Recife;Nordeste;Loja Fisica;2019-03-01
+9;Loja Fortaleza;Fortaleza;Nordeste;Loja Fisica;2022-02-10
+10;Loja Brasília;Brasília;Centro-Oeste;Loja Fisica;2019-03-01
+11;Loja Goiania;Goiania;Centro-Oeste;Hibrida;2022-02-10
+12;Loja Manaus;Manaus;Norte;Hibrida;2022-02-10
